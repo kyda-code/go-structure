@@ -48,7 +48,7 @@ The author of this is the Uncle Bob Robert C. Martin if you need more informatio
 
 ## Notes
 
-You don't need to implement this structure in your projects, this can changed or updated depending of the needs of your project if you need know more about the go, always you access the official documentation [here](https://go.dev/doc/).
+You don't need to implement this structure in your projects, this can be changed or updated depending on the needs of your project if you need to know more about the Golang, always access the official documentation [here](https://go.dev/doc/).
 
 
 ❤️ Happy Coding!! 😄
